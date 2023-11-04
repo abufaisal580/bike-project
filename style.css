@@ -207,7 +207,94 @@ margin-top: 10px;
 .batun button a:hover{
     color: #FFF;
 }
+.claint-heading{
+    margin-top: 158px;
+}
+#main-clints-card{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 52px;
+}
+.claint-heading h1{
+color: #0D0925;
+text-align: center;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+}
+.claint-heading h1 span{
+    text-align: center;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    color: #E76F51;
+}
+.claints-card{
+border-radius: 5px;
+border: 1px solid #DEDEDE;
+height: 478px;
+width: 322px;
+padding: 40px 35px;
+}
 
+.claint-details img{
+    height: 149px;
+    width: 149px;
+    
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+    
+
+}
+.claint-details p{
+color: #6C6C6C;
+text-align: center;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+letter-spacing: 0.2px;
+margin-top: 30px;
+}
+.star-container{
+    width: 130px;
+    margin: 0 auto;
+}
+.star{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap:2px;
+    margin-top: 15px;
+   
+}
+.star img{
+   height: 22px;
+   width: 22px;
+}
+.claint-details h4{
+color: var(--primary-color, #23A6F0);
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+letter-spacing: 0.2px;
+text-align: center;
+margin-top: 15px;
+}
+.claint-details h6{
+color: var(--text-color, #252B42);
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.2px;
+text-align: center;
+margin-top: 15px;
+}
 
 
 
