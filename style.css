@@ -295,6 +295,137 @@ letter-spacing: 0.2px;
 text-align: center;
 margin-top: 15px;
 }
+#main-last-section{
+display: flex;
+justify-content: space-between;
+}
+.last-section-headding{
+    text-align: center;
+    margin-top: 158px;
+}
+.last-section-headding h1{
+    color: #0D0925;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    
+            }
+    .last-section-headding h1 span{
+    color: #E76F51;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600; 
+    
+    
+     }
+     .main-last-section-left img{
+        height: 423.5px;
+        width: 431.2px;
+     }
+     .question-card h1{
+color: #383838;
+font-variant-numeric: lining-nums tabular-nums;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500; 
+     }
+
+
+ .question-card p{
+ color: #7E848C;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400; 
+ }
+
+
+
+
+.question-card{
+width: 552px;
+height: 103px;
+border-radius: 5px;
+border: 1px solid #D5E5FB;
+background: #FFF;
+
+
+ }
+ .secent{
+    width: 552px;
+    height: 50px;
+    margin-top: 37px;
+ }
+ .footer{
+background-color: black;
+margin-top: 139px;
+ }
+ #main-footer{
+    display: flex;
+    justify-content: space-between;
+ }
+ .head-one h2{
+color: white;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400; 
+
+ }
+ .head-one{
+    padding-top:56px;
+    display: flex;
+ }
+ .h2{
+    margin-left: 24px;
+ }
+ .head-two{
+    display: flex;
+    gap: 24px;
+   
+ }
+ .head-two h2 a{
+    color: white;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400; 
+    text-decoration: none;
+    
+     }
+     .head-three{
+        margin-top: 24px;
+     }
+     .head-three h2{
+        color: white;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400; 
+    text-decoration: none;
+     }
+     .footer-right-headding h1{
+       
+        font-family: Manrope;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        color:#D9DBE1
+       
+     }
+     .footer-right-headding{
+        margin-top: 56px;
+        display: flex;
+        flex-direction: column;
+     }
+     .footer-right-headding img{
+        margin-top: 16px;
+     }
+
+
 
 
 
@@ -382,5 +513,43 @@ flex-direction: column;
         flex-direction: column;
         
     }
+    .happy-claints-section{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    #main-clints-card{
+        display: flex;
+        flex-direction: column;
+        margin-top: 52px;
+        margin-left: 30px;
+        gap: 24px;
+    }
+    .claint-heading h1{
+        color: #0D0925;
+        text-align: center;
+        font-family: Poppins;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 600;
+        }
+        .last-section-headding h1{
+color: #0D0925;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+
+        }
+.last-section-headding h1 span{
+color: #E76F51;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 600; 
+
+
+ }
+
   
 }
