@@ -298,6 +298,7 @@ margin-top: 15px;
 #main-last-section{
 display: flex;
 justify-content: space-between;
+margin-top: 112px;
 }
 .last-section-headding{
     text-align: center;
